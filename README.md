@@ -1,5 +1,5 @@
 ### Hello there 🤗
 
-I am an hobbyist reverse engineer and software security enthusiast, I like to break things to gain knowledge about their inner workings 😇
+I am a hobbyist reverse engineer and a software security enthusiast. I like to break things in order to gain knowledge about their inner workings 😇
 
-I am currently experimenting with Dart language 🎯 
+I am currently experimenting with the Dart language 🎯 
